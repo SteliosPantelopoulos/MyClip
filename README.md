@@ -4,6 +4,20 @@ MyClip is an Android application written in Java that exchanges videos between t
 It is an application in which every user can create a channel, upload videos, subscribe to other channels and hashtags and see
 videos that contain topics to which they are subscribed.
 
+The application has 3 main tabs:
+
+- The first one called "Subscriptions" where all the videos of the subscribed topics are shown.
+
+  ![Subscriptions Tab](/assetsREADME/subscriptionsTab.png)
+
+- The second one called "Search" where the user can search other channels or hashtags.
+
+  ![Search Tab](/assetsREADME/searchTab.png)
+
+- The third one called "Upload" where the user can select to record a video or choose one from the gallery and then the app will redirect him in the appropriate android activity.
+
+  ![Upload Tab](/assetsREADME/uploadTab.png)
+
 ## Design Details
 
 This application is a distributed system based on the idea of Node.
